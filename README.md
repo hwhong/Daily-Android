@@ -1,0 +1,2 @@
+# Daily-Android
+Daily Android is a project I started on the 15th of June of 2016. The main objective of this project is to make an Android application every single day for as long as possible. The project started from exploring simple connections from the UI to the actual code, to now, parsing JSON Data to make a fully functional application for example. As I continue to make daily progress, I will add on a sentence illustrating what I've learned from making this application. :)
